@@ -4,9 +4,9 @@ Single page theme project for lab facility with best team. Co-Labb exists to sol
 </p>
 ## LiveSite Link
 
-👉 [https://academia-bss.netlify.app/](https://scientific-bss.netlify.app/)
+👉 [Scintific Live Link](https://scientific-bss.netlify.app/)
 <br>
-👉 [https://shahriar-syeed.github.io/academia/](https://github.com/Shahriar-Syeed/scientific/)
+👉 [https://shahriar-syeed.github.io/scientific/](https://github.com/Shahriar-Syeed/scientific/)
 
 ## Feature
 
